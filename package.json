@@ -1,0 +1,16 @@
+{
+  "name": "Code review prompt",
+  "version": "1.0.0",
+  "description": "A silly extra step to ensure dev reviewed code. To be used with pre-git or some other npm-build process.",
+  "main": "index.js",
+  "dependencies": {
+    "prompt": "1.0.0"
+  },
+  "devDependencies": {},
+  "author": "Stav Pan Geffen <stavgeffen@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/panstav/code-review-prompt.git"
+  },
+  "license": "ISC"
+}
